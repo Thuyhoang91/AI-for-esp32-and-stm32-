@@ -17,11 +17,9 @@ using copilot in vscode editor to programming for esp32-stm32 mcu
     *    STM32 for VSCode https://github.com/bmd-studio/stm32-for-vscode?tab=readme-ov-file    
     
 ## Usage
+    *    Getting started with GitHub Copilot in VS Code https://code.visualstudio.com/docs/copilot/getting-started
+    
 
-To run the project:
-
-```bash
-```
 
 ## Support
 
