@@ -12,7 +12,7 @@ using copilot in vscode editor to programming for esp32-stm32 mcu
     *   ![image](https://github.com/user-attachments/assets/9ad8d0c4-e846-42c1-a7e0-6ea7ff1dc574)
     *   ![image](https://github.com/user-attachments/assets/e4a9de26-84b5-438a-9cd2-569985747e68)
 
-2.  **Install **
+2.  **Install:**
     *    ESP32-IDF  https://www.youtube.com/watch?v=D0fRc4XHBNk
     *    STM32 for VSCode https://github.com/bmd-studio/stm32-for-vscode?tab=readme-ov-file    
     
